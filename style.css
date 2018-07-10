@@ -1,0 +1,24 @@
+html body{
+        margin:0;
+        padding:0;
+        height: 100%;
+    }
+    #bannercon {
+        text-align:center;
+        margin:0;
+        WIDTH: 100%;
+        background-image: url("https://s3.us-east-2.amazonaws.com/landonhalouska.com/photo+host/keyboard+background.jpg");
+        background-size: 100%;
+        height:50%;
+        background-repeat: no-repeat;
+    }
+    #banner h1{
+        margin: 0;
+        padding:100px 0;
+        color: white;
+        }
+    #sec1 {
+        background-color: #00bffd24;
+        height:100%;
+        width:100%;
+      }
