@@ -15,8 +15,14 @@ html body{
 
     #banner h1{
     margin: 0;
-    padding:100px 0;
+    padding-top:100px;
     color: white;
+    font-size: 75px;
+
+    }
+    #banner h2 {
+      color: white;
+      font-size: 30px;
     }
 
     #sec1 {
